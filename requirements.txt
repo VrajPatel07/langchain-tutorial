@@ -5,6 +5,7 @@ langchain-google-genai
 google-generativeai
 
 python-dotenv
+pydantic
 
 numpy
 scikit-learn
