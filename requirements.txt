@@ -8,6 +8,8 @@ faiss-cpu
 
 python-dotenv
 pydantic
+pypdf
+bs4
 
 numpy
 scikit-learn
